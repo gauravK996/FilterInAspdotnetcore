@@ -1,0 +1,11 @@
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\bin\Debug\netcoreapp2.0\Filtersaspnetcore.deps.json
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\bin\Debug\netcoreapp2.0\Filtersaspnetcore.runtimeconfig.json
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\bin\Debug\netcoreapp2.0\Filtersaspnetcore.runtimeconfig.dev.json
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\bin\Debug\netcoreapp2.0\Filtersaspnetcore.dll
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\bin\Debug\netcoreapp2.0\Filtersaspnetcore.pdb
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.csprojAssemblyReference.cache
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.csproj.CoreCompileInputs.cache
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.AssemblyInfoInputs.cache
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.AssemblyInfo.cs
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.dll
+C:\Users\photoshop\source\repos\Filtersaspnetcore\Filtersaspnetcore\obj\Debug\netcoreapp2.0\Filtersaspnetcore.pdb
